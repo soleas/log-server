@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node server.js"
+  },
   "name": "log-server",
   "main": "server.js",
   "dependencies": {
